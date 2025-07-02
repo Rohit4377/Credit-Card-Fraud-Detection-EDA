@@ -6,7 +6,7 @@ This project aims to analyze client application data to identify factors contrib
 
 # Dataset
 
-The datasets used in this project is publicly available on [Dataset] (https://drive.google.com/drive/folders/1TSn_S3C7CzMVZ67F9wiW5EUz-lwMkmO0?usp=sharing)
+The dataset used in this project is publicly available on [Dataset](https://drive.google.com/drive/folders/1TSn_S3C7CzMVZ67F9wiW5EUz-lwMkmO0)
 
 # EDA Objectives
 
