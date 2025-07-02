@@ -52,21 +52,13 @@ Used visualizations like histograms, boxplots, and bar charts to uncover data pa
 
 
  Programming Language: 
- 
  Python
 
 
 Libraries:
-
 Pandas
-
-
 NumPy
-
-
 Matplotlib
-
-
 Seaborn
 
 
