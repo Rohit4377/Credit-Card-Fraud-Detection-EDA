@@ -55,9 +55,16 @@ Used visualizations like histograms, boxplots, and bar charts to uncover data pa
 
 
 Libraries:
-
 Pandas
+
+
 NumPy
+
+
 Matplotlib
+
+
 Seaborn
+
+
 Tools: Jupyter Notebook.
