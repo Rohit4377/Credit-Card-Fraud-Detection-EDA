@@ -22,11 +22,11 @@ The dataset used in this project is publicly available on [Dataset](https://driv
 
 # Steps Involved
 
-# 1. Data Loading
+ **1. Data Loading**
 
 * Loaded all datasets and examined their structure (rows, columns, and data types).
 
-# 2. Missing Value Treatment
+**2. Missing Value Treatment**
 
 * Identified columns with significant missing values.
 
@@ -34,15 +34,15 @@ The dataset used in this project is publicly available on [Dataset](https://driv
 
 * Filled numerical missing values with median and categorical values with mode.
 
-# 3. Outlier Detection
+**3. Outlier Detection**
 
 * Checked for outliers that could skew results using statistical and visual methods.
 
-# 4. Data Imbalance Check
+**4. Data Imbalance Check**
 
 * Analyzed distribution of the target variable to assess any imbalance in classes.
 
-# 5. Exploratory Data Analysis (EDA)
+**5. Exploratory Data Analysis (EDA)**
 
 * Performed univariate, bivariate, and segmented univariate analysis.
 
