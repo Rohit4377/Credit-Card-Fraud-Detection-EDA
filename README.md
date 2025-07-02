@@ -1,9 +1,11 @@
 # 📊 Credit Card Fraud Detection - Exploratory Data Analysis
 
 🔍 Project Overview
+
 This project aims to analyze client application data to identify factors contributing to payment difficulties.By uncovering these patterns, the analysis supports better risk assessment for future credit decisions.
 
 📁 Dataset
+
 The datasets used in this project is publicly available on [Dataset] (https://drive.google.com/drive/folders/1TSn_S3C7CzMVZ67F9wiW5EUz-lwMkmO0)
 
 EDA Objectives
