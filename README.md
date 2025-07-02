@@ -52,13 +52,13 @@ The datasets used in this project is publicly available on [Dataset] (https://dr
 
 
   Programming Language: 
- Python
+  Python
 
 
  Libraries:
-* Pandas,
-* NumPy,
-* Matplotlib,
+* Pandas
+* NumPy
+* Matplotlib
 * Seaborn.
 
 
