@@ -9,13 +9,19 @@ This project aims to analyze client application data to identify factors contrib
 The datasets used in this project is publicly available on [Dataset] (https://drive.google.com/drive/folders/1TSn_S3C7CzMVZ67F9wiW5EUz-lwMkmO0)
 
 EDA Objectives
+
 1.Understanding the distribution of the data.
+
 2.Identifying the class imbalance between fraudulent and legitimate transactions.
+
 3.Analyzing correlations between features.
+
 4.Visualizing fraud trends using various statistical plots.
+
 5.Highlighting key insights that can guide model building.
 
 Steps Involved
+
 1.Data Loading
 Loaded all datasets and examined their structure (rows, columns, and data types).
 2.Missing Value Treatment
