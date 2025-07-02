@@ -50,8 +50,12 @@ Used visualizations like histograms, boxplots, and bar charts to uncover data pa
 
 # Technologies Used
 
-Programming Language: Python
+
+ Programming Language: Python
+
+
 Libraries:
+
 Pandas
 NumPy
 Matplotlib
