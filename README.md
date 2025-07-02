@@ -51,16 +51,16 @@ The dataset used in this project is publicly available on [Dataset](https://driv
 # Technologies Used
 
 
- #  Programming Language: 
+ **Programming Language:**
   * Python
 
 
-#  Libraries:
+ **Libraries:**
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
 
 
-#  Tools: 
+**Tools:**
 * Jupyter Notebook
