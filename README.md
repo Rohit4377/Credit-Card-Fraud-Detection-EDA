@@ -56,12 +56,10 @@ The datasets used in this project is publicly available on [Dataset] (https://dr
 
 
 Libraries:
-
-
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn.
 
 
 Tools: Jupyter Notebook.
