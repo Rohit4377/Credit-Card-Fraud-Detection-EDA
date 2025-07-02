@@ -59,8 +59,8 @@ The datasets used in this project is publicly available on [Dataset] (https://dr
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn.
+* Seaborn
 
 
 #  Tools: 
-* Jupyter Notebook.
+* Jupyter Notebook
